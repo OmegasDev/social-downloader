@@ -1,0 +1,8 @@
+# Ignore virtual environment and unnecessary files
+.venv/
+venv/
+.vscode/
+__pycache__/
+*.log
+.env
+.wrangler/
